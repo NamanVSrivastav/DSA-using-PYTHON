@@ -1,0 +1,2 @@
+
+print(getsecmax(l)) 
